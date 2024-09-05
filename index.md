@@ -12,3 +12,13 @@ Meaningful: Test
 <p>This is my step 3 result</p>
 <p>Do you think it is good?</p>
 ```
+
+### Step 4:
+
+- [X] Create a copy of this exercise
+- [X] Follow the instruction
+- [X] Completion of Step 1
+- [X] Completion of Step 2
+- [X] Completion of Step 3
+- [X] Completion of Step 4
+- [ ] Completion of Step 5
